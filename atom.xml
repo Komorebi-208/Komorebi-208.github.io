@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Komorebi-208.github.io</id>
     <title>Gridea</title>
-    <updated>2020-03-16T14:42:49.316Z</updated>
+    <updated>2020-03-16T14:50:41.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Komorebi-208.github.io"/>
     <link rel="self" href="https://Komorebi-208.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://Komorebi-208.github.io/images/avatar.png</logo>
     <icon>https://Komorebi-208.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[2020.3.11]]></title>
+        <id>https://Komorebi-208.github.io/post/2020311/</id>
+        <link href="https://Komorebi-208.github.io/post/2020311/">
+        </link>
+        <updated>2020-03-16T14:50:06.000Z</updated>
+        <content type="html"><![CDATA[<p>翻了翻自己我喜欢里面的所有歌曲，发现里面承载了自己太多的回忆，发现有一些歌是因为一些人才听到，有一些歌曾经像一束光照亮自己给我以温暖，有一些歌而让我想到你，歌声依旧而有的人以不在身旁，但人生本就是一个不断分别的过程，希望自己，不困于心，不乱于情，岁月安好，未来可期！2020.3.11</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://Komorebi-208.github.io/post/hello-gridea/</id>
