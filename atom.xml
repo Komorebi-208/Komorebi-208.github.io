@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Komorebi-208.github.io</id>
     <title>Gridea</title>
-    <updated>2020-03-16T14:50:49.829Z</updated>
+    <updated>2020-03-29T14:42:57.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Komorebi-208.github.io"/>
     <link rel="self" href="https://Komorebi-208.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://Komorebi-208.github.io/images/avatar.png</logo>
     <icon>https://Komorebi-208.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[生活随笔2020.3.29]]></title>
+        <id>https://Komorebi-208.github.io/post/sheng-huo-sui-bi-2020329/</id>
+        <link href="https://Komorebi-208.github.io/post/sheng-huo-sui-bi-2020329/">
+        </link>
+        <updated>2020-03-29T14:32:51.000Z</updated>
+        <content type="html"><![CDATA[<p>总是点写点什么，写一些关于生活，关于学习的一些事情。每次总是给自己定下目标，却很少有完成的时候，每次总是夸下海口的口嗨，真的太垃圾了！明明都懂得，却又做不到。这一周虽然学了一些东西，却少的可怜，大部分时间都在划水，干一些毫无意义的事情，没有很好在玩，也没有好好的学习，在学习时划水。每天都在反省每天却没有进步，真是个小垃圾，哎，希望下一周在学习上能够更认真一些，少做一些无意义的事情，能好好的利用一下时间</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2020.3.11]]></title>
         <id>https://Komorebi-208.github.io/post/2020311/</id>
